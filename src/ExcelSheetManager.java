@@ -8,6 +8,7 @@ import java.io.FileOutputStream;
 import java.text.DecimalFormat;
 import java.util.*;
 
+
 public class ExcelSheetManager {
 
     public static boolean exportToExcel(LinkedList<Job> foundedJobsList) {
